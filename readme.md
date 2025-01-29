@@ -44,7 +44,7 @@ SPRR2G / IGHE - מציגים שינויים קטנים יותר, אך ייתכן
 בשביל להריץ את הקוד וודאו להתקין את הספריות הבאות :
  pandas, numpy, matplotlib, seaborn.
 
-הפעל את הקובץ final_project.ipynb בסביבת Jupyter Notebook 
+הפעל את הקובת final_project.py בסביבת python netbook
 
 ================
 
